@@ -5057,11 +5057,11 @@
         {
             "id": "com.urbancode.plugin.datasetWriter.zos",
             "name": "zOS Dataset Writer",
-            "version": "4.1176023",
+            "version": "4.1176024",
             "pluginType": "Automation",
             "description": "The zOS Dataset Writer plug-in copies input text, dataset or USS file to a mainframe dataset.",
             "url": "https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/zos-dataset-writer/ucd-plugins-zos-dataset-writer-4.1176024.zip",
-            "releaseNote": "Enhancement to accept multiple datasets or Files as input\n Minor Improvements\n Fixed security issue CVE-2021-29425\n Fixed Jettison Vulnerability",
+            "releaseNote": "Enhancement to accept multiple datasets or Files as input\n      Minor Improvements\n      Fixed security issue CVE-2021-29425\n      Fixed Jettison Vulnerability",
             "steps": [
                 {
                     "name": "Write to Sequential Dataset",
